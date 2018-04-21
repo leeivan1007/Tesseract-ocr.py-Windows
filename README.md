@@ -7,3 +7,7 @@ I install the [Windows Installer made with MinGW-w64]
 3. test code on cmd : tesseract 1.png outpu -l eng (any picture you want try; l(L) not 1(number) 
 4. pip install pytesseract
 5. you can use python also in tesseract-ocr.py
+
+Have many languages can try! : https://github.com/tesseract-ocr/tesseract/wiki/Data-Files
+1. save in [C:\Program Files (x86)\Tesseract-OCR\tessdata]
+2. review list : [cmd]>>>tesseract --list-langs
